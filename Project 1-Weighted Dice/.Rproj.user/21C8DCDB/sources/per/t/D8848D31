@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585480396725.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "574169847",
+    "id" : "D8848D31",
+    "lastKnownWriteTime" : 1585480423,
+    "last_content_update" : 1585480625923,
+    "path" : "~/R/Hands-On Programming with R/Project 1-Weighted Dice/roll2.R",
+    "project_path" : "roll2.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
