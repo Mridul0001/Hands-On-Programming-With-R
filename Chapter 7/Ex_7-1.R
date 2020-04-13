@@ -1,0 +1,1 @@
+symbols[1] == symbols[2] & symbols[2] == symbols[3]

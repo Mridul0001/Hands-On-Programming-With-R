@@ -1,0 +1,1 @@
+all(symbols %in% c("B", "BB", "BBB"))
