@@ -1,5 +1,4 @@
 play <- function(){
   symbols <- get_symbols()
-  print(symbols)
-  score(symbols)
+  structure(score(symbols), symbols = symbols, class = "slots")
 }
